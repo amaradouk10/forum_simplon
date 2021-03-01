@@ -1,0 +1,36 @@
+body{
+        background-image: url("../image/old_map.png");
+        background-repeat: repeat;
+
+}
+.background {
+    background-color: #B98018;
+}
+
+#employeeList {
+
+    background-color: #B98018;
+    font-weight: bold;
+}
+#ligne {
+    background-color: #fbf3e2;
+}
+.bouton {
+    background-color: #B98018;
+    font-weight: bold;
+}
+.delete {
+   background-color: #fff;
+    margin: auto;
+    border-radius: 10px;
+}
+.admin{
+        background-color: #fff;
+        padding: 10px;
+        border-radius: 10px;
+        margin: auto;
+}
+.bienvenue {
+
+    color: #ae6e0b;
+}

@@ -1,0 +1,84 @@
+.container-fluid{
+        width: 400px;
+        margin: 16px auto;
+        font-size: 16px;
+}
+.login-header,
+.container-fluid p {
+        margin-top: 0;
+        margin-bottom: 0;
+}
+.login-triangle {
+        width: 0;
+        margin-right: auto;
+        margin-left: auto;
+        border: 12px solid transparent;
+        border-bottom-color: #B98018;
+  }
+.login-header {
+        background: #B98018;
+        padding: 20px;
+        font-size: 1.4em;
+        font-weight: normal;
+        text-align: center;
+        text-transform: uppercase;
+        color: #fff;
+  }
+.login-container {
+        padding: 12px;
+  }
+.login-container p {
+        padding: 12px;
+  }
+.login-container input {
+        box-sizing: border-box;
+        display: block;
+        width: 100%;
+        border-width: 1px;
+        border-style: solid;
+        padding: 16px;
+        outline: 0;
+        font-family: inherit;
+        font-size: 0.95em;
+  }
+.login-container input[type="submit"] {
+        background-color:#B98018;
+        font-family: inherit;
+        font-size: 1.3em;
+        color: #fff;     
+  }
+.login-container input{
+        border: #B98018 solid 1px;
+}
+body{
+        background-image: url("../images/old_map.png");
+        background-repeat: repeat;
+
+}
+
+
+/*publication*/
+.navbar{
+        background-color: #B98018;
+}
+.titre4{
+        border-bottom: black 2px solid;
+}
+
+.formpub{
+        width: 50%;
+}
+
+/*admin*/
+.admin{
+        background-color: #fff;
+        padding: 50px;
+        border-radius: 10px;
+        margin: auto;
+}
+.delete{
+        background-color: #fff;
+        margin: auto;
+        border-radius: 10px;
+}
+  
